@@ -2,3 +2,4 @@
 - [Android intents tutorial](https://www.raywenderlich.com/103044/android-intents-tutorial)
 - [introduction to Android activitity](https://www.raywenderlich.com/116580/introduction-to-android-activities-tutorial)
 - [introduction to Android fragment](https://www.raywenderlich.com/117838/introduction-to-android-fragments-tutorial)
+- [adaptive UI tutorial](https://www.raywenderlich.com/114066/adaptive-ui-android-tutorial)
