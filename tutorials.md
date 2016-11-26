@@ -1,2 +1,3 @@
 - [Android Development Tutorials](https://www.raywenderlich.com/category/android)
 - [Android intents tutorial](https://www.raywenderlich.com/103044/android-intents-tutorial)
+- [introduction to Android activitity](https://www.raywenderlich.com/116580/introduction-to-android-activities-tutorial)
