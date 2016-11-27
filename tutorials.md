@@ -4,3 +4,4 @@
 - [introduction to Android fragment](https://www.raywenderlich.com/117838/introduction-to-android-fragments-tutorial)
 - [adaptive UI tutorial](https://www.raywenderlich.com/114066/adaptive-ui-android-tutorial)
 - [android network tutorial](https://www.raywenderlich.com/126770/android-networking-tutorial-getting-started)
+- [android animation tutorial](https://www.raywenderlich.com/128105/introduction-android-animations)
