@@ -8,3 +8,4 @@
 - [android sdk version tutorial](https://www.raywenderlich.com/118966/android-sdk-versions-tutorial)
 - [android app distribution tutorial](https://www.raywenderlich.com/122114/android-app-distribution-tutorial-zero-google-play-store)
 - [android action bar](https://www.sitepoint.com/better-user-interfaces-android-action-bar/)
+- [localizing Android apps](https://www.sitepoint.com/localizing-android-apps/)
