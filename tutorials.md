@@ -10,3 +10,4 @@
 - [android action bar](https://www.sitepoint.com/better-user-interfaces-android-action-bar/)
 - [localizing Android apps](https://www.sitepoint.com/localizing-android-apps/)
 - [android library project fundamental](https://www.sitepoint.com/getting-started-with-android-library-projects-part-1/)
+- [Scheduling background tasks](https://www.sitepoint.com/scheduling-background-tasks-android/)
