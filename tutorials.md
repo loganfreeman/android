@@ -11,3 +11,4 @@
 - [localizing Android apps](https://www.sitepoint.com/localizing-android-apps/)
 - [android library project fundamental](https://www.sitepoint.com/getting-started-with-android-library-projects-part-1/)
 - [Scheduling background tasks](https://www.sitepoint.com/scheduling-background-tasks-android/)
+- [android game development tutorial 1](https://www.simplifiedcoding.net/android-game-development-tutorial-1/)
