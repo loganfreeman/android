@@ -13,3 +13,4 @@
 - [Scheduling background tasks](https://www.sitepoint.com/scheduling-background-tasks-android/)
 - [android game development tutorial 1](https://www.simplifiedcoding.net/android-game-development-tutorial-1/)
 - [android game development tutorial 2](https://www.simplifiedcoding.net/android-game-development-tutorial-2/)
+- [viewpager](https://guides.codepath.com/android/ViewPager-with-FragmentPagerAdapter)
