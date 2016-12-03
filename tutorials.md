@@ -14,3 +14,4 @@
 - [android game development tutorial 1](https://www.simplifiedcoding.net/android-game-development-tutorial-1/)
 - [android game development tutorial 2](https://www.simplifiedcoding.net/android-game-development-tutorial-2/)
 - [viewpager](https://guides.codepath.com/android/ViewPager-with-FragmentPagerAdapter)
+- [using viewpager for screen slide](https://developer.android.com/training/animation/screen-slide.html)
