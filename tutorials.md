@@ -18,3 +18,4 @@
 - [android game development tutorial 2](https://www.simplifiedcoding.net/android-game-development-tutorial-2/)
 - [viewpager](https://guides.codepath.com/android/ViewPager-with-FragmentPagerAdapter)
 - [using viewpager for screen slide](https://developer.android.com/training/animation/screen-slide.html)
+- [Dependency Injection With Dagger 2 on Android](https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-android--cms-23345)
