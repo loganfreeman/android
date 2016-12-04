@@ -12,4 +12,8 @@ Network
 
 Memory
 ---
-- [leakcanary(A memory leak detection library for Android and Java)](https://github.com/square/leakcanary)
+- [leakcanary (A memory leak detection library for Android and Java) ](https://github.com/square/leakcanary)
+
+Dependency
+---
+- [dagger (A fast dependency injector for Android and Java) ](http://square.github.io/dagger/)
