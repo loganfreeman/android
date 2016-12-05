@@ -34,3 +34,7 @@ Permissions
 Locations
 ---
 - [ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation)
+
+Scroll
+---
+- [Android library to observe scroll events on scrollable views.](https://github.com/ksoichiro/Android-ObservableScrollView)
