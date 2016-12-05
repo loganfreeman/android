@@ -17,3 +17,7 @@ Memory
 Dependency
 ---
 - [dagger (A fast dependency injector for Android and Java) ](http://square.github.io/dagger/)
+
+MVP framework
+---
+- [nucleus](https://github.com/konmik/nucleus.git)
