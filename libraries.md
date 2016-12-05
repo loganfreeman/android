@@ -30,3 +30,7 @@ State
 Permissions
 ---
 - [EasyPermissions ](https://github.com/googlesamples/easypermissions)
+
+Locations
+---
+- [ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation)
