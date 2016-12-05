@@ -19,3 +19,4 @@
 - [viewpager](https://guides.codepath.com/android/ViewPager-with-FragmentPagerAdapter)
 - [using viewpager for screen slide](https://developer.android.com/training/animation/screen-slide.html)
 - [Dependency Injection With Dagger 2 on Android](https://dzone.com/articles/an-introduction-to-dagger-2-android-di-part-1-3)
+- [Learn Android Dependency Injection with Dagger 2](https://www.codeproject.com/Articles/1094853/Learn-Android-Dependency-Injection-with-Dagger)
