@@ -21,3 +21,7 @@ Dependency
 MVP framework
 ---
 - [nucleus](https://github.com/konmik/nucleus.git)
+
+State
+---
+- [Icepick is an Android library that eliminates the boilerplate of saving and restoring instance state](https://github.com/frankiesardo/icepick.git)
