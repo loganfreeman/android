@@ -25,3 +25,4 @@
 - [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
 - [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
 - [Scoped Objects in Dagger 2](https://praveer09.github.io/technology/2016/01/23/scoped-objects-in-dagger-2/)
+- [splash the right way](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)
