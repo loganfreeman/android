@@ -28,3 +28,4 @@
 - [splash the right way](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)
 - [todo mvp](https://github.com/googlesamples/android-architecture/tree/todo-mvp/)
 - [Introduction to Model View Presenter on Android](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
+- [android mvp](http://antonioleiva.com/mvp-android/)
