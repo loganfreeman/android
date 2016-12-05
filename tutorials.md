@@ -27,3 +27,4 @@
 - [Scoped Objects in Dagger 2](https://praveer09.github.io/technology/2016/01/23/scoped-objects-in-dagger-2/)
 - [splash the right way](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)
 - [todo mvp](https://github.com/googlesamples/android-architecture/tree/todo-mvp/)
+- [Introduction to Model View Presenter on Android](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
