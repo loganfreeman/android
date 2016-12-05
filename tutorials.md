@@ -22,3 +22,4 @@
 - [Learn Android Dependency Injection with Dagger 2](https://www.codeproject.com/Articles/1094853/Learn-Android-Dependency-Injection-with-Dagger)
 - [Dagger 2 and MVP Architecture](https://adityaladwa.wordpress.com/2016/05/11/dagger-2-and-mvp-architecture/)
 - [building userscope with dagger2](http://frogermcs.github.io/building-userscope-with-dagger2/)
+- [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
