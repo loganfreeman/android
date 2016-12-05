@@ -20,3 +20,4 @@
 - [using viewpager for screen slide](https://developer.android.com/training/animation/screen-slide.html)
 - [Dependency Injection With Dagger 2 on Android](https://dzone.com/articles/an-introduction-to-dagger-2-android-di-part-1-3)
 - [Learn Android Dependency Injection with Dagger 2](https://www.codeproject.com/Articles/1094853/Learn-Android-Dependency-Injection-with-Dagger)
+- [Dagger 2 and MVP Architecture](https://adityaladwa.wordpress.com/2016/05/11/dagger-2-and-mvp-architecture/)
