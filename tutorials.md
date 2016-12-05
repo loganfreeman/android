@@ -1,6 +1,18 @@
+API
+---
+- [Signup and API Keys](https://developers.google.com/places/android-api/signup)
+
+Awesome
+---
 - [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki/Home/6c236e883cc70912ccdd859173050fc147d409f1)
 - [android libs from github or other websites](https://github.com/snowdream/awesome-android)
+
+Utils
+---
 - [android utils](https://github.com/loganfreeman/AndroidUtilCode)
+
+Tutorials
+---
 - [Android Development Tutorials](https://www.raywenderlich.com/category/android)
 - [Android intents tutorial](https://www.raywenderlich.com/103044/android-intents-tutorial)
 - [introduction to Android activitity](https://www.raywenderlich.com/116580/introduction-to-android-activities-tutorial)
