@@ -25,3 +25,7 @@ MVP framework
 State
 ---
 - [Icepick is an Android library that eliminates the boilerplate of saving and restoring instance state](https://github.com/frankiesardo/icepick.git)
+
+Permissions
+---
+- [EasyPermissions ](https://github.com/googlesamples/easypermissions)
