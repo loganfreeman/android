@@ -41,3 +41,7 @@ Tutorials
 - [todo mvp](https://github.com/googlesamples/android-architecture/tree/todo-mvp/)
 - [Introduction to Model View Presenter on Android](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
 - [android mvp](http://antonioleiva.com/mvp-android/)
+
+Activity recognition API
+---
+- [How to Recognize User Activity With Activity Recognition](https://code.tutsplus.com/tutorials/how-to-recognize-user-activity-with-activity-recognition--cms-25851)
