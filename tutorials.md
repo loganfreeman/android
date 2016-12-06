@@ -54,3 +54,7 @@ MVP framework
 Activity recognition API
 ---
 - [How to Recognize User Activity With Activity Recognition](https://code.tutsplus.com/tutorials/how-to-recognize-user-activity-with-activity-recognition--cms-25851)
+
+Toolbar
+---
+- [CoordinatorLayout](https://github.com/chrisbanes/cheesesquare)
