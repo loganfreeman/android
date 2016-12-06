@@ -44,3 +44,4 @@ Scroll
 RxJava
 ---
 - [RxBinding](https://github.com/JakeWharton/RxBinding)
+- [RxRelay](https://github.com/JakeWharton/RxRelay)
