@@ -61,3 +61,7 @@ Toolbar
 - [CoordinatorLayout](https://github.com/chrisbanes/cheesesquare)
 - [Handling Scrolls with CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout#expanding-and-collapsing-toolbars)
 - [How to hide/show Android Toolbar when scrolling (Google Play Music’s behavior)](https://rylexr.tinbytes.com/2015/04/27/how-to-hideshow-android-toolbar-when-scrolling-google-play-musics-behavior/)
+
+Custom view
+---
+- [A deep dive into Android View constructors](http://blog.danlew.net/2016/07/19/a-deep-dive-into-android-view-constructors/)
