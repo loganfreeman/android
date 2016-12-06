@@ -30,6 +30,7 @@ State
 Permissions
 ---
 - [EasyPermissions ](https://github.com/googlesamples/easypermissions)
+- [RxPermissions](https://github.com/tbruyelle/RxPermissions)
 
 Locations
 ---
