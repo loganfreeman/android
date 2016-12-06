@@ -28,8 +28,10 @@ Tutorials
 - [Scheduling background tasks](https://www.sitepoint.com/scheduling-background-tasks-android/)
 - [android game development tutorial 1](https://www.simplifiedcoding.net/android-game-development-tutorial-1/)
 - [android game development tutorial 2](https://www.simplifiedcoding.net/android-game-development-tutorial-2/)
-- [viewpager](https://guides.codepath.com/android/ViewPager-with-FragmentPagerAdapter)
-- [using viewpager for screen slide](https://developer.android.com/training/animation/screen-slide.html)
+- [splash the right way](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)
+
+Dependenct injection
+---
 - [Dependency Injection With Dagger 2 on Android](https://dzone.com/articles/an-introduction-to-dagger-2-android-di-part-1-3)
 - [Learn Android Dependency Injection with Dagger 2](https://www.codeproject.com/Articles/1094853/Learn-Android-Dependency-Injection-with-Dagger)
 - [Dagger 2 and MVP Architecture](https://adityaladwa.wordpress.com/2016/05/11/dagger-2-and-mvp-architecture/)
@@ -37,7 +39,14 @@ Tutorials
 - [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
 - [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
 - [Scoped Objects in Dagger 2](https://praveer09.github.io/technology/2016/01/23/scoped-objects-in-dagger-2/)
-- [splash the right way](https://www.bignerdranch.com/blog/splash-screens-the-right-way/)
+
+ViewPager
+---
+- [viewpager](https://guides.codepath.com/android/ViewPager-with-FragmentPagerAdapter)
+- [using viewpager for screen slide](https://developer.android.com/training/animation/screen-slide.html)
+
+MVP framework
+---
 - [todo mvp](https://github.com/googlesamples/android-architecture/tree/todo-mvp/)
 - [Introduction to Model View Presenter on Android](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
 - [android mvp](http://antonioleiva.com/mvp-android/)
