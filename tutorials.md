@@ -58,3 +58,4 @@ Activity recognition API
 Toolbar
 ---
 - [CoordinatorLayout](https://github.com/chrisbanes/cheesesquare)
+- [Handling Scrolls with CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout#expanding-and-collapsing-toolbars)
