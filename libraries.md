@@ -45,3 +45,7 @@ RxJava
 ---
 - [RxBinding](https://github.com/JakeWharton/RxBinding)
 - [RxRelay](https://github.com/JakeWharton/RxRelay)
+
+Job Scheduler
+---
+- [smart scheduler](https://github.com/hypertrack/smart-scheduler-android)
