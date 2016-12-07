@@ -49,3 +49,4 @@ RxJava
 Job Scheduler
 ---
 - [smart scheduler](https://github.com/hypertrack/smart-scheduler-android)
+- [android job](https://github.com/evernote/android-job)
