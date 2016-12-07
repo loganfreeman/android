@@ -50,3 +50,7 @@ Job Scheduler
 ---
 - [smart scheduler](https://github.com/hypertrack/smart-scheduler-android)
 - [android job](https://github.com/evernote/android-job)
+
+Cloud API
+---
+- [bmob](http://docs.bmob.cn/data/Android/b_developdoc/doc/index.html#兼容Android6.0系统)
