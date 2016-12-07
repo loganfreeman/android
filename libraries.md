@@ -1,6 +1,7 @@
 Images
 ---
-- [An image loading and caching library for Android focused on smooth scrolling](https://github.com/bumptech/glide)
+- [Glide](https://github.com/bumptech/glide)
+- [picasso](https://github.com/square/picasso)
 
 Database
 ---
