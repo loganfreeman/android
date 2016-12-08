@@ -12,6 +12,7 @@ ViewPager
 - [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
 - [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView)
 - [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)
+- [InfiniteCycleViewPager](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager)
 
 Drawer
 ---
