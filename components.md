@@ -6,7 +6,6 @@ Icons
 ViewPager
 ---
 - [RecyclerViewPager(A ViewPager implemention base on RecyclerView's code)](https://github.com/lsjwzh/RecyclerViewPager)
-- [android vertical slide view](https://github.com/xmuSistone/android-vertical-slide-view)
 
 Drawer
 ---
@@ -15,3 +14,4 @@ Drawer
 Layout
 ---
 - [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
+- [android vertical slide view](https://github.com/xmuSistone/android-vertical-slide-view)
