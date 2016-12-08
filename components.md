@@ -5,7 +5,8 @@ Icons
 
 ViewPager
 ---
-- [RecyclerViewPager(A ViewPager implemention base on RecyclerView's code)](https://github.com/lsjwzh/RecyclerViewPager)
+- [RecyclerViewPager (A ViewPager implemention base on RecyclerView's code)](https://github.com/lsjwzh/RecyclerViewPager)
+- [MagicIndicator](https://github.com/hackware1993/MagicIndicator)
 
 Drawer
 ---
