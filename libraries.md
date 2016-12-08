@@ -11,6 +11,7 @@ Network
 ---
 - [okhttp](http://square.github.io/okhttp/)
 - [RetrofitRxCache](https://github.com/cpoopc/RetrofitRxCache)
+- [RxDownload](https://github.com/ssseasonnn/RxDownload)
 
 Memory
 ---
