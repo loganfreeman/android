@@ -2,3 +2,6 @@
 - [A demo of animation show how turn viewpager into detail](https://github.com/githubwing/ZoomHeader)
 - [VerificationCodeView](https://github.com/Freshman111/VerificationCodeView)
 - [MyDiary](https://github.com/erttyy8821/MyDiary)
+- [WXhongbao](https://github.com/AndroidMsky/WXhongbao)
+- [GanHuoIO](https://github.com/burgessjp/GanHuoIO)
+- [SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)
