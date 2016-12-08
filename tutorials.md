@@ -72,3 +72,4 @@ Layout
 ---
 - [Using CoordinatorLayout](http://www.androidauthority.com/using-coordinatorlayout-android-apps-703720/)
 - [INTRODUCTION TO COORDINATOR LAYOUT ON ANDROID](https://lab.getbase.com/introduction-to-coordinator-layout-on-android/)
+- [Handling Scrolls with CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)
