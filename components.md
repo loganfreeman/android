@@ -11,6 +11,7 @@ ViewPager
 - [ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator)
 - [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
 - [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView)
+- [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)
 
 Drawer
 ---
