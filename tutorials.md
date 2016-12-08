@@ -67,3 +67,7 @@ Custom view
 ---
 - [A deep dive into Android View constructors](http://blog.danlew.net/2016/07/19/a-deep-dive-into-android-view-constructors/)
 - [Creating Custom Views](https://developer.android.com/training/custom-views/create-view.html#customattr)
+
+Layout 
+---
+- [Using CoordinatorLayout](http://www.androidauthority.com/using-coordinatorlayout-android-apps-703720/)
