@@ -56,3 +56,7 @@ Job Scheduler
 Cloud API
 ---
 - [bmob](http://docs.bmob.cn/data/Android/b_developdoc/doc/index.html#兼容Android6.0系统)
+
+RecyclerView
+---
+- [MultiType](https://github.com/drakeet/MultiType)
