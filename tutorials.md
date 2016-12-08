@@ -69,6 +69,7 @@ Custom view
 - [Creating Custom Views](https://developer.android.com/training/custom-views/create-view.html#customattr)
 - [Creating custom and compound views in Android](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
 - [custom view examples](https://github.com/devunwired/custom-view-examples)
+- [Defining Custom Views](https://guides.codepath.com/android/Defining-Custom-Views)
 
 Layout 
 ---
