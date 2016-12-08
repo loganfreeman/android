@@ -10,3 +10,7 @@ ViewPager
 Drawer
 ---
 - [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
+
+Layout
+---
+- [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
