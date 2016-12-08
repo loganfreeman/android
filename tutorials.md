@@ -74,3 +74,4 @@ Layout
 - [INTRODUCTION TO COORDINATOR LAYOUT ON ANDROID](https://lab.getbase.com/introduction-to-coordinator-layout-on-android/)
 - [Handling Scrolls with CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)
 - [Mastering the Coordinator Layout](http://saulmm.github.io/mastering-coordinator)
+- [SwipeRefreshLayout](https://developer.android.com/training/swipe/add-swipe-interface.html)
