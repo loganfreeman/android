@@ -10,6 +10,7 @@ ViewPager
 - [viewpager with parallax pages, together with vertical sliding (or click) and activity transition](https://github.com/xmuSistone/android-page-transition)
 - [ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator)
 - [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
+- [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView)
 
 Drawer
 ---
