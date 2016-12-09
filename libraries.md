@@ -47,6 +47,7 @@ RxJava
 ---
 - [RxBinding](https://github.com/JakeWharton/RxBinding)
 - [RxRelay](https://github.com/JakeWharton/RxRelay)
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
 Job Scheduler
 ---
