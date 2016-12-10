@@ -88,3 +88,4 @@ Parcel
 ---
 - [parceler](https://github.com/johncarl81/parceler)
 - [auto parcel](https://github.com/frankiesardo/auto-parcel)
+- [ParcelableGenerator](https://github.com/baoyongzhang/ParcelableGenerator)
