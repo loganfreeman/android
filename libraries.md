@@ -74,3 +74,7 @@ Barcode
 Camera
 ---
 - [FocusSurfaceView](https://github.com/CGmaybe10/FocusSurfaceView)
+
+ePub reader
+---
+- [A Java ePub reader and parser framework for Android](https://github.com/FolioReader/FolioReader-Android)
