@@ -70,3 +70,7 @@ RecyclerView
 Barcode
 ---
 - [barcodescanner](https://github.com/dm77/barcodescanner)
+
+Camera
+---
+- [FocusSurfaceView](https://github.com/CGmaybe10/FocusSurfaceView)
