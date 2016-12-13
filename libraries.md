@@ -3,6 +3,11 @@ Images
 - [Glide](https://github.com/bumptech/glide)
 - [picasso](https://github.com/square/picasso)
 
+Icons
+---
+- [Android-Iconics](https://github.com/mikepenz/Android-Iconics)
+- [Calligraphy](https://github.com/chrisjenx/Calligraphy)
+
 Database
 ---
 - [greenDao](https://github.com/greenrobot/greenDAO)
