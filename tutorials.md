@@ -14,6 +14,7 @@ Awesome
 Utils
 ---
 - [android utils](https://github.com/loganfreeman/AndroidUtilCode)
+- [代码助手，提供常用代码功能和模块](https://github.com/boredream/bdcodehelper)
 
 Tutorials
 ---
