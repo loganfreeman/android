@@ -1,7 +1,4 @@
-Icons
----
-- [Android-Iconics](https://github.com/mikepenz/Android-Iconics)
-- [Calligraphy](https://github.com/chrisjenx/Calligraphy)
+
 
 ViewPager
 ---
