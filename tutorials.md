@@ -9,6 +9,7 @@ Awesome
 - [android sample projects](https://github.com/android/platform_development)
 - [android tutorials](https://www.tutorialspoint.com/android/index.htm)
 - [android architecture](https://github.com/boredream/android-architecture)
+- [A collection of samples to discuss and showcase different architectural tools and patterns for Android apps](https://github.com/boredream/DesignResCollection)
 
 Utils
 ---
