@@ -2,6 +2,79 @@ public interface BaseAdapterData {
     int getItemViewType();
 }
 
+public interface UIInit {
+    int getContentViewId();
+
+    void initViews();
+
+    void initBeforeView();
+}
+
+
+
+public abstract class BaseViewHolder<T extends BaseAdapterData> extends RecyclerView.ViewHolder implements UIInit {
+
+    protected BaseRecyclerAdapter mBaseAdapter;
+    private Context mContext;
+    private LayoutInflater mLayoutInflater;
+
+    private void setUIContext(Context context) {
+        this.mContext = context;
+        this.mLayoutInflater = LayoutInflater.from(context);
+    }
+
+    protected LayoutInflater getLayoutInflater() {
+        return mLayoutInflater;
+    }
+
+    protected Context getContext() {
+        return mContext;
+    }
+
+
+    public BaseViewHolder(View itemView, BaseRecyclerAdapter baseRecyclerAdapter) {
+        super(itemView);
+        mBaseAdapter = baseRecyclerAdapter;
+        ButterKnife.bind(this, itemView);
+        setUIContext(itemView.getContext());
+        initBeforeView();
+        initViews();
+    }
+
+    @Override
+    public void initBeforeView() {
+
+    }
+
+    @Override
+    public void initViews() {
+
+    }
+
+    public abstract void updateItem(T data, int position);
+}
+
+public class NoDataViewHolder extends BaseViewHolder {
+    public NoDataViewHolder(View itemView, BaseRecyclerAdapter baseRecyclerAdapter) {
+        super(itemView, baseRecyclerAdapter);
+    }
+
+    @Override
+    public void updateItem(BaseAdapterData Data, int position) {
+
+    }
+
+    @Override
+    public int getContentViewId() {
+        return 0;
+    }
+
+    @Override
+    public void initViews() {
+
+    }
+}
+
 public class BaseRecyclerAdapter extends RecyclerView.Adapter<BaseViewHolder> {
 
     private SparseArray<Class<? extends BaseViewHolder>> typeHolders = new SparseArray();
