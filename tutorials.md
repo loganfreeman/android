@@ -8,6 +8,7 @@ Awesome
 - [android libs from github or other websites](https://github.com/snowdream/awesome-android)
 - [android sample projects](https://github.com/android/platform_development)
 - [android tutorials](https://www.tutorialspoint.com/android/index.htm)
+- [android architecture](https://github.com/boredream/android-architecture)
 
 Utils
 ---
