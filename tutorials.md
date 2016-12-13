@@ -11,6 +11,10 @@ Awesome
 - [android architecture](https://github.com/boredream/android-architecture)
 - [A collection of samples to discuss and showcase different architectural tools and patterns for Android apps](https://github.com/boredream/DesignResCollection)
 
+Interview
+---
+- [Common interview questions](https://github.com/boredream/Android-Common-Interview-Questions)
+
 Template
 ---
 - [应用模板-社交类](https://github.com/boredream/BoreWeibo)
