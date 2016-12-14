@@ -23,6 +23,7 @@ Network
 - [okhttp](http://square.github.io/okhttp/)
 - [RetrofitRxCache](https://github.com/cpoopc/RetrofitRxCache)
 - [RxDownload](https://github.com/ssseasonnn/RxDownload)
+- [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
 
 Memory
 ---
