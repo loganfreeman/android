@@ -1,6 +1,11 @@
 API
 ---
 - [Signup and API Keys](https://developers.google.com/places/android-api/signup)
+- [How to Recognize User Activity With Activity Recognition](https://code.tutsplus.com/tutorials/how-to-recognize-user-activity-with-activity-recognition--cms-25851)
+
+Git
+---
+- [codepath](https://github.com/codepath)
 
 Awesome
 ---
@@ -76,9 +81,6 @@ MVP framework
 - [Introduction to Model View Presenter on Android](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
 - [android mvp](http://antonioleiva.com/mvp-android/)
 
-Activity recognition API
----
-- [How to Recognize User Activity With Activity Recognition](https://code.tutsplus.com/tutorials/how-to-recognize-user-activity-with-activity-recognition--cms-25851)
 
 Toolbar
 ---
