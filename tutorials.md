@@ -23,8 +23,8 @@ Interview
 - [android面试常用面试题](https://github.com/xiangzhihong/android-Interview)
 
 AppCompat Library
- ---
- - [Migrating to the AppCompat Library](https://guides.codepath.com/android/Migrating-to-the-AppCompat-Library)
+---
+- [Migrating to the AppCompat Library](https://guides.codepath.com/android/Migrating-to-the-AppCompat-Library)
 
 Template
 ---
