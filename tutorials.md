@@ -113,3 +113,7 @@ RxJava
 Share
 ---
 - [Sharing content with intents](https://guides.codepath.com/android/Sharing-Content-with-Intents)
+
+Network
+---
+- [Consuming APIs with Retrofit](https://guides.codepath.com/android/Consuming-APIs-with-Retrofit#automated-approach-auto-generating-the-java-classes)
