@@ -122,3 +122,7 @@ Network
 Progressbar
 ---
 - [Handling ProgressBars](https://guides.codepath.com/android/Handling-ProgressBars)
+
+Dialog
+---
+- [Using DialogFragment](https://guides.codepath.com/android/Using-DialogFragment)
