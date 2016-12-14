@@ -22,6 +22,11 @@ Interview
 - [Java / Android 笔试、面试 知识整理](https://github.com/hadyang/interview)
 - [android面试常用面试题](https://github.com/xiangzhihong/android-Interview)
 
+ 
+ AppCompat Library
+ ---
+ - [Migrating to the AppCompat Library](https://guides.codepath.com/android/Migrating-to-the-AppCompat-Library)
+
 Template
 ---
 - [应用模板-社交类](https://github.com/boredream/BoreWeibo)
