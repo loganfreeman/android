@@ -15,6 +15,7 @@ Awesome
 - [android tutorials](https://www.tutorialspoint.com/android/index.htm)
 - [android architecture](https://github.com/boredream/android-architecture)
 - [A collection of samples to discuss and showcase different architectural tools and patterns for Android apps](https://github.com/boredream/DesignResCollection)
+- [安卓学习笔记](https://github.com/GcsSloop/AndroidNote)
 
 Interview
 ---
@@ -35,11 +36,6 @@ Template
 ---
 - [应用模板-社交类](https://github.com/boredream/BoreWeibo)
 
-Utils
----
-- [android utils](https://github.com/loganfreeman/AndroidUtilCode)
-- [代码助手，提供常用代码功能和模块](https://github.com/boredream/bdcodehelper)
-- [代码辅助工具,提供各种自动生成代码的方法](https://github.com/boredream/CodeUtils)
 
 Tutorials
 ---
