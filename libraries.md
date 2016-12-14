@@ -2,6 +2,7 @@ Images
 ---
 - [Glide](https://github.com/bumptech/glide)
 - [picasso](https://github.com/square/picasso)
+- [Fresco](http://frescolib.org/)
 
 Icons
 ---
