@@ -133,3 +133,4 @@ Soft Keyboard
 Actionbar
 ---
 - [Extended ActionBar Guide](https://guides.codepath.com/android/Extended-ActionBar-Guide#adding-actionview-items)
+- [Using the ToolBar](https://guides.codepath.com/android/Using-the-App-ToolBar)
