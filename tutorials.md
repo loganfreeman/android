@@ -87,6 +87,8 @@ Toolbar
 - [CoordinatorLayout](https://github.com/chrisbanes/cheesesquare)
 - [Handling Scrolls with CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout#expanding-and-collapsing-toolbars)
 - [How to hide/show Android Toolbar when scrolling (Google Play Music’s behavior)](https://rylexr.tinbytes.com/2015/04/27/how-to-hideshow-android-toolbar-when-scrolling-google-play-musics-behavior/)
+- [Extended ActionBar Guide](https://guides.codepath.com/android/Extended-ActionBar-Guide#adding-actionview-items)
+- [Using the ToolBar](https://guides.codepath.com/android/Using-the-App-ToolBar)
 
 Custom view
 ---
@@ -135,11 +137,6 @@ Dialog
 
 Soft Keyboard
 - [Working with the Soft Keyboard](https://guides.codepath.com/android/Working-with-the-Soft-Keyboard)
-
-Actionbar
----
-- [Extended ActionBar Guide](https://guides.codepath.com/android/Extended-ActionBar-Guide#adding-actionview-items)
-- [Using the ToolBar](https://guides.codepath.com/android/Using-the-App-ToolBar)
 
 Serialization
 ---
