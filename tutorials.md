@@ -117,3 +117,4 @@ Share
 Network
 ---
 - [Consuming APIs with Retrofit](https://guides.codepath.com/android/Consuming-APIs-with-Retrofit#automated-approach-auto-generating-the-java-classes)
+- [Rotten Tomatoes Networking Tutorial](https://guides.codepath.com/android/Rotten-Tomatoes-Networking-Tutorial)
