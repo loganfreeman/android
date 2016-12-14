@@ -1,9 +1,9 @@
-API
+APIs
 ---
 - [Signup and API Keys](https://developers.google.com/places/android-api/signup)
 - [How to Recognize User Activity With Activity Recognition](https://code.tutsplus.com/tutorials/how-to-recognize-user-activity-with-activity-recognition--cms-25851)
 
-Git
+Github
 ---
 - [codepath](https://github.com/codepath)
 
