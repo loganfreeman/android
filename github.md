@@ -6,3 +6,4 @@
 - [GanHuoIO](https://github.com/burgessjp/GanHuoIO)
 - [SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)
 - [Qiitanium](https://github.com/ogaclejapan/Qiitanium)
+- [Kickstarter for Android](https://github.com/kickstarter/android-oss)
