@@ -22,8 +22,7 @@ Interview
 - [Java / Android 笔试、面试 知识整理](https://github.com/hadyang/interview)
 - [android面试常用面试题](https://github.com/xiangzhihong/android-Interview)
 
- 
- AppCompat Library
+AppCompat Library
  ---
  - [Migrating to the AppCompat Library](https://guides.codepath.com/android/Migrating-to-the-AppCompat-Library)
 
