@@ -94,7 +94,6 @@ Custom view
 - [custom view examples](https://github.com/devunwired/custom-view-examples)
 - [Defining Custom Views](https://guides.codepath.com/android/Defining-Custom-Views)
 - [ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](http://blog.csdn.net/a396901990/article/details/36475213)
-- [Android中自定义样式与View的构造函数中的第三个参数defStyle的意义](http://www.cnblogs.com/angeldevil/p/3479431.html)
 
 Layout 
 ---
