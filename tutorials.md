@@ -93,6 +93,7 @@ Custom view
 - [Creating custom and compound views in Android](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
 - [custom view examples](https://github.com/devunwired/custom-view-examples)
 - [Defining Custom Views](https://guides.codepath.com/android/Defining-Custom-Views)
+- [ANDROID自定义视图——onMeasure，MeasureSpec源码 流程 思路详解](http://blog.csdn.net/a396901990/article/details/36475213)
 
 Layout 
 ---
