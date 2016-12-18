@@ -145,3 +145,7 @@ Serialization
 ---
 - [Leveraging the Gson Library](https://guides.codepath.com/android/Leveraging-the-Gson-Library)
 - [Converting JSON to Models](https://guides.codepath.com/android/Converting-JSON-to-Models)
+
+Canvas
+---
+- [Porter/Duff Compositing and Blend Modes](http://ssp.impulsetrain.com/porterduff.html)
