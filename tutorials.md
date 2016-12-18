@@ -106,6 +106,7 @@ Layout
 - [Mastering the Coordinator Layout](http://saulmm.github.io/mastering-coordinator)
 - [SwipeRefreshLayout](https://developer.android.com/training/swipe/add-swipe-interface.html)
 - [Implementing a Heterogenous ListView](https://github.com/codepath/android_guides/wiki/Implementing-a-Heterogenous-ListView)
+- [Heterogenous Layouts inside RecyclerView](https://github.com/codepath/android_guides/wiki/Heterogenous-Layouts-inside-RecyclerView)
 
 Search
 ---
