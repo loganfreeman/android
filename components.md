@@ -34,4 +34,5 @@ Menu
 Load more
 ---
 - [Ultra Pull To Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
+- [Wanna auto-load-more?](https://github.com/liaohuqiu/android-cube-app)
 
