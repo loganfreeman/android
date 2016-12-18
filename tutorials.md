@@ -139,6 +139,7 @@ Dialog
 - [Using DialogFragment](https://guides.codepath.com/android/Using-DialogFragment)
 
 Soft Keyboard
+---
 - [Working with the Soft Keyboard](https://guides.codepath.com/android/Working-with-the-Soft-Keyboard)
 
 Serialization
