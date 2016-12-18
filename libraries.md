@@ -110,3 +110,7 @@ Parcel
 - [auto parcel](https://github.com/frankiesardo/auto-parcel)
 - [ParcelableGenerator](https://github.com/baoyongzhang/ParcelableGenerator)
 - [Parceler](https://github.com/yjfnypeu/Parceler)
+
+Cache
+---
+- [RxCache](https://github.com/VictorAlbertos/RxCache)
