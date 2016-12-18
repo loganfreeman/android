@@ -150,3 +150,4 @@ Serialization
 Canvas
 ---
 - [Porter/Duff Compositing and Blend Modes](http://ssp.impulsetrain.com/porterduff.html)
+- [详解Paint的setPathEffect(PathEffect effect)](http://www.cnblogs.com/tianzhijiexian/p/4297783.html)
