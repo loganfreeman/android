@@ -45,3 +45,7 @@ Chart
 ---
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
+ProgressBar
+---
+- [GADownloading](https://github.com/Ajian-studio/GADownloading)
+
