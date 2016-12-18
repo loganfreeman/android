@@ -25,6 +25,7 @@ Layout
 - [android vertical slide view](https://github.com/xmuSistone/android-vertical-slide-view)
 - [TwinklingRefreshLayout](https://github.com/lcodecorex/TwinklingRefreshLayout)
 - [SpaceTabLayout](https://github.com/thelong1EU/SpaceTabLayout)
+- [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)
 
 Menu
 ---
