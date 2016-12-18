@@ -105,6 +105,7 @@ Layout
 - [Handling Scrolls with CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)
 - [Mastering the Coordinator Layout](http://saulmm.github.io/mastering-coordinator)
 - [SwipeRefreshLayout](https://developer.android.com/training/swipe/add-swipe-interface.html)
+- [Implementing a Heterogenous ListView](https://github.com/codepath/android_guides/wiki/Implementing-a-Heterogenous-ListView)
 
 Search
 ---
