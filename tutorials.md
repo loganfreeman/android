@@ -161,3 +161,4 @@ Animation
 - [LikeAnimation](https://github.com/frogermcs/LikeAnimation)
 - [FlipAnimation](https://github.com/4xes/FlipAnimation)
 - [CircleAnimation](https://github.com/dkmeteor/CircleAnimation)
+- [App Intro Animation](https://github.com/TakeoffAndroid/AppIntroAnimation)
