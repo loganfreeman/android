@@ -19,11 +19,12 @@ Icons
 - [Android-Iconics](https://github.com/mikepenz/Android-Iconics)
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy)
 
-Database
+ORM
 ---
 - [greenDao](https://github.com/greenrobot/greenDAO)
 - [realm](https://github.com/realm/realm-java)
 - [ActiveAndroid](https://github.com/pardom/ActiveAndroid)
+- [Sugar](https://github.com/satyan/sugar)
 
 Log
 ---
