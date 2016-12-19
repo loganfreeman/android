@@ -25,6 +25,7 @@ ORM
 - [realm](https://github.com/realm/realm-java)
 - [ActiveAndroid](https://github.com/pardom/ActiveAndroid)
 - [Sugar](https://github.com/satyan/sugar)
+- [DBFlow](https://github.com/Raizlabs/DBFlow)
 
 Log
 ---
