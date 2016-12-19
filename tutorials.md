@@ -155,3 +155,4 @@ Canvas
 Animation
 ---
 - [Android Transition animations explanation with examples](https://github.com/lgvalle/Material-Animations)
+- [Transitions in Android](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.j2qddc6qd)
