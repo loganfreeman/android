@@ -26,6 +26,7 @@ ORM
 - [ActiveAndroid](https://github.com/pardom/ActiveAndroid)
 - [Sugar](https://github.com/satyan/sugar)
 - [DBFlow](https://github.com/Raizlabs/DBFlow)
+- [cupboard](https://bitbucket.org/littlerobots/cupboard)
 
 Log
 ---
