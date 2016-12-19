@@ -163,3 +163,4 @@ Animation
 - [CircleAnimation](https://github.com/dkmeteor/CircleAnimation)
 - [App Intro Animation](https://github.com/TakeoffAndroid/AppIntroAnimation)
 - [Play Store Animation](https://github.com/naman14/PlayAnimations)
+- [WowSplash](https://github.com/githubwing/WowSplash)
