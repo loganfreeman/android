@@ -159,3 +159,4 @@ Animation
 - [Curved Fab Reveal Example](https://github.com/saulmm/Curved-Fab-Reveal-Example)
 - [Android引导动画](https://github.com/githubliruiyuan/Animation)
 - [LikeAnimation](https://github.com/frogermcs/LikeAnimation)
+- [FlipAnimation](https://github.com/4xes/FlipAnimation)
