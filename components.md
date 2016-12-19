@@ -26,6 +26,7 @@ Layout
 - [TwinklingRefreshLayout](https://github.com/lcodecorex/TwinklingRefreshLayout)
 - [SpaceTabLayout](https://github.com/thelong1EU/SpaceTabLayout)
 - [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)
+- [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager)
 
 Menu
 ---
