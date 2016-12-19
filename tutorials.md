@@ -158,3 +158,4 @@ Animation
 - [Transitions in Android](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.j2qddc6qd)
 - [Curved Fab Reveal Example](https://github.com/saulmm/Curved-Fab-Reveal-Example)
 - [Android引导动画](https://github.com/githubliruiyuan/Animation)
+- [LikeAnimation](https://github.com/frogermcs/LikeAnimation)
