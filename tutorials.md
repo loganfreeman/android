@@ -108,6 +108,7 @@ Layout
 - [Implementing a Heterogenous ListView](https://github.com/codepath/android_guides/wiki/Implementing-a-Heterogenous-ListView)
 - [Heterogenous Layouts inside RecyclerView](https://github.com/codepath/android_guides/wiki/Heterogenous-Layouts-inside-RecyclerView)
 - [Android流式布局实现](http://kymjs.com/code/2015/06/06/01)
+- [Using Google TabLayout](https://github.com/codepath/android_guides/wiki/Google-Play-Style-Tabs-using-TabLayout)
 
 Search
 ---
