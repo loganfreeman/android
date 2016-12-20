@@ -14,6 +14,7 @@ ViewPager
 - [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)
 - [InfiniteCycleViewPager](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager)
 - [RecyclerViewCardGallery](https://github.com/huazhiyuan2008/RecyclerViewCardGallery)
+- [MultiType](https://github.com/drakeet/MultiType)
 
 Drawer
 ---
