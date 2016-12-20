@@ -16,6 +16,7 @@ Awesome
 - [android architecture](https://github.com/boredream/android-architecture)
 - [A collection of samples to discuss and showcase different architectural tools and patterns for Android apps](https://github.com/boredream/DesignResCollection)
 - [安卓学习笔记](https://github.com/GcsSloop/AndroidNote)
+- [Awesome RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 
 Interview
 ---
