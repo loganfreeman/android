@@ -166,3 +166,4 @@ Animation
 - [App Intro Animation](https://github.com/TakeoffAndroid/AppIntroAnimation)
 - [Play Store Animation](https://github.com/naman14/PlayAnimations)
 - [WowSplash](https://github.com/githubwing/WowSplash)
+- [Shared View Activity Animations](http://willowtreeapps.com/blog/material-world-animating-l-shared-view-activity-animations/)
