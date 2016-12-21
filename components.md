@@ -29,6 +29,7 @@ Layout
 - [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)
 - [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager)
 - [SpaceTabLayout](https://github.com/thelong1EU/SpaceTabLayout)
+- [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
 
 Menu
 ---
