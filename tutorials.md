@@ -171,3 +171,4 @@ Animation
 
 PendingIntent
 - [Android PendingIntent and Notifications Example Tutorial](http://www.journaldev.com/10463/android-pendingintent-and-notifications-example-tutorial)
+- [说说PendingIntent的内部机制](https://my.oschina.net/youranhongcha/blog/196933)
