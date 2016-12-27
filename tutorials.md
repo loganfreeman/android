@@ -99,6 +99,7 @@ Custom view
 - [Android View构造方法第三参数使用方法详解](http://blog.csdn.net/mybeta/article/details/39993449)
 - [特殊形状控的点击区域判断](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B17%5Dtouch-matrix-region.md)
 - [android shaders and filters](https://chiuki.github.io/android-shaders-filters/#/5)
+- [using bitmapshader](https://codebutchery.wordpress.com/2015/04/02/using-bitmapshader-in-android/)
 
 Layout 
 ---
