@@ -4,6 +4,7 @@ Images
 - [picasso](https://github.com/square/picasso)
 - [Fresco](http://frescolib.org/)
 - [Blurry](https://github.com/wasabeef/Blurry)
+- [DiagonalView](https://github.com/IntruderShanky/Squint)
 
 Utils
 ---
@@ -119,3 +120,7 @@ Parcel
 Cache
 ---
 - [RxCache](https://github.com/VictorAlbertos/RxCache)
+
+html
+---
+- [html-build](https://github.com/jrummyapps/html-builder)
