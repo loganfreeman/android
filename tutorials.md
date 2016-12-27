@@ -98,7 +98,7 @@ Custom view
 - [android view构造函数研究](http://blog.csdn.net/z103594643/article/details/6755017)
 - [Android View构造方法第三参数使用方法详解](http://blog.csdn.net/mybeta/article/details/39993449)
 - [特殊形状控的点击区域判断](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B17%5Dtouch-matrix-region.md)
-- [android shaders](https://chiuki.github.io/android-shaders-filters/#/5)
+- [android shaders and filters](https://chiuki.github.io/android-shaders-filters/#/5)
 
 Layout 
 ---
