@@ -181,3 +181,7 @@ Sensor
 ---
 - [GyroscopeExplorer](https://github.com/KalebKE/GyroscopeExplorer)
 
+Preference
+---
+- [preferenceactivity example](http://wiki.jikexueyuan.com/project/android-actual-combat-skills/preferenceactivity-using-detailed-annotation.html)
+
