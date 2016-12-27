@@ -173,6 +173,11 @@ Animation
 - [Using shared element transitions in activities and fragments](http://www.androidauthority.com/using-shared-element-transitions-activities-fragments-631996/)
 
 PendingIntent
+---
 - [Android PendingIntent and Notifications Example Tutorial](http://www.journaldev.com/10463/android-pendingintent-and-notifications-example-tutorial)
 - [Understanding Android Broadcast Receivers](http://codetheory.in/android-broadcast-receivers/)
+
+Sensor
+---
+- [GyroscopeExplorer](https://github.com/KalebKE/GyroscopeExplorer)
 
