@@ -53,3 +53,6 @@ ProgressBar
 ---
 - [GADownloading](https://github.com/Ajian-studio/GADownloading)
 
+Loading
+---
+- [Beautiful and smooth custom loading views](https://github.com/nntuyen/mkloader)
