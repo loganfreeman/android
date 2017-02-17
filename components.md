@@ -30,6 +30,7 @@ Layout
 - [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager)
 - [SpaceTabLayout](https://github.com/thelong1EU/SpaceTabLayout)
 - [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
+- [Extended Android Tab Layout with animated indicators that have continuous feedback](https://github.com/Andy671/Dachshund-Tab-Layout)
 
 Menu
 ---
