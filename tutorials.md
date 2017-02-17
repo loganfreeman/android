@@ -190,3 +190,7 @@ Preference
 - [preferenceactivity example](http://wiki.jikexueyuan.com/project/android-actual-combat-skills/preferenceactivity-using-detailed-annotation.html)
 - [SharedPreferences和PreferenceActivity](https://www.oschina.net/question/157182_45602)
 
+Handler
+---
+- [Handler mechanism explaination](https://github.com/android-notes/Cockroach/blob/master/%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90.md)
+
