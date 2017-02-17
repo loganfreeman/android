@@ -90,6 +90,8 @@ Toolbar
 
 Custom view
 ---
+- [Canvas and Drawables](https://developer.android.com/guide/topics/graphics/2d-graphics.html#tween-animation)
+- [custom-components](https://developer.android.com/guide/topics/ui/custom-components.html)
 - [A deep dive into Android View constructors](http://blog.danlew.net/2016/07/19/a-deep-dive-into-android-view-constructors/)
 - [Creating Custom Views](https://developer.android.com/training/custom-views/create-view.html#customattr)
 - [Creating custom and compound views in Android](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
