@@ -6,6 +6,10 @@ Images
 - [Blurry](https://github.com/wasabeef/Blurry)
 - [DiagonalView](https://github.com/IntruderShanky/Squint)
 
+Animation
+---
+- [ExpectAnim](https://github.com/florent37/ExpectAnim)
+
 Utils
 ---
 - [android utils](https://github.com/loganfreeman/AndroidUtilCode)
