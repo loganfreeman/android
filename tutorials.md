@@ -116,6 +116,7 @@ Layout
 - [Android流式布局实现](http://kymjs.com/code/2015/06/06/01)
 - [Using Google TabLayout](https://github.com/codepath/android_guides/wiki/Google-Play-Style-Tabs-using-TabLayout)
 - [RecyclerView: Grid with header](http://blog.sqisland.com/2014/12/recyclerview-grid-with-header.html)
+- [playing-with-navigationview](http://www.technotalkative.com/part-4-playing-with-navigationview/)
 
 Search
 ---
