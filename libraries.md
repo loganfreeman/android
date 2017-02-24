@@ -56,6 +56,10 @@ Memory
 ---
 - [leakcanary (A memory leak detection library for Android and Java) ](https://github.com/square/leakcanary)
 
+I/O
+---
+- [okio](https://github.com/square/okio)
+
 Dependency
 ---
 - [dagger (A fast dependency injector for Android and Java) ](http://square.github.io/dagger/)
