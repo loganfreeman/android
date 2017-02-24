@@ -72,6 +72,7 @@ ViewPager
 ---
 - [viewpager](https://guides.codepath.com/android/ViewPager-with-FragmentPagerAdapter)
 - [using viewpager for screen slide](https://developer.android.com/training/animation/screen-slide.html)
+- [YViewPagerDemo](https://github.com/youngkaaa/YViewPagerDemo)
 
 MVP framework
 ---
