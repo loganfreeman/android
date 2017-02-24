@@ -42,6 +42,7 @@ Log
 ---
 - [timber](https://github.com/JakeWharton/timber)
 - [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor)
+- [chuck](https://github.com/jgilfelt/chuck)
 
 Network
 ---
