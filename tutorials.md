@@ -182,10 +182,11 @@ Animation
 - [Shared View Activity Animations](http://willowtreeapps.com/blog/material-world-animating-l-shared-view-activity-animations/)
 - [Using shared element transitions in activities and fragments](http://www.androidauthority.com/using-shared-element-transitions-activities-fragments-631996/)
 
-PendingIntent
+Notification and PendingIntent
 ---
 - [Android PendingIntent and Notifications Example Tutorial](http://www.journaldev.com/10463/android-pendingintent-and-notifications-example-tutorial)
 - [Understanding Android Broadcast Receivers](http://codetheory.in/android-broadcast-receivers/)
+- [SimpleNotification](https://developer.android.com/guide/topics/ui/notifiers/notifications.html#SimpleNotification)
 
 Sensor
 ---
