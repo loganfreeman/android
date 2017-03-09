@@ -170,3 +170,13 @@ example
 
 </android.support.v4.widget.DrawerLayout>
 ```
+
+toolbar
+---
+```java
+final Toolbar toolbar = (Toolbar) findViewById(R.id.appbar_toolbar);
+        setSupportActionBar(toolbar);
+        toolbar.setTitle(R.string.app_name);
+        toolbar.setNavigationIcon(R.drawable.ic_menu);
+        toolbar.setBackgroundColor(ThemeStore.primaryColor(this));
+```
