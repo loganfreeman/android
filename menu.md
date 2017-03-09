@@ -40,3 +40,16 @@ menu example
 
 </menu>
 ```
+searchView in menu
+---
+```java
+public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.main, menu);
+
+        final MenuItem searchItem = menu.findItem(R.id.search);
+        final SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
+        searchView.setQueryHint(getString(R.string.search_view_example));
+
+        return super.onCreateOptionsMenu(menu);
+    }
+ ```
