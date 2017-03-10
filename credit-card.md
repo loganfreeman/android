@@ -4,3 +4,4 @@
 - [CreditCardView](https://github.com/sharish/CreditCardView)
 - [CreditCardEditText](https://github.com/aliHafizji/CreditCardEditText)
 - [Another CreditCardView](https://github.com/vinaygaba/CreditCardView)
+- [CreditCardEntry](https://github.com/dbachelder/CreditCardEntry)
