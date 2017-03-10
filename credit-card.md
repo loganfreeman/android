@@ -2,3 +2,4 @@
 - [card.io provides fast, easy credit card scanning in mobile apps](https://github.com/card-io/card.io-Android-SDK)
 - [SwipeableCard](https://github.com/michelelacorte/SwipeableCard)
 - [CreditCardView](https://github.com/sharish/CreditCardView)
+- [CreditCardEditText](https://github.com/aliHafizji/CreditCardEditText)
