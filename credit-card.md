@@ -6,3 +6,4 @@
 - [Another CreditCardView](https://github.com/vinaygaba/CreditCardView)
 - [CreditCardEntry](https://github.com/dbachelder/CreditCardEntry)
 - [android-card-form](https://github.com/braintree/android-card-form)
+- [Android Submit Credit Card Flow](https://github.com/adonixis/android-submit-credit-card-flow)
