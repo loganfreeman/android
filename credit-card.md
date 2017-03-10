@@ -1,1 +1,2 @@
 - [自动格式化银行卡号的EditText](https://github.com/smuyyh/BankCardFormat)
+- [card.io provides fast, easy credit card scanning in mobile apps](https://github.com/card-io/card.io-Android-SDK)
