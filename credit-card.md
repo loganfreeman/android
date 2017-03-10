@@ -3,3 +3,4 @@
 - [SwipeableCard](https://github.com/michelelacorte/SwipeableCard)
 - [CreditCardView](https://github.com/sharish/CreditCardView)
 - [CreditCardEditText](https://github.com/aliHafizji/CreditCardEditText)
+- [Another CreditCardView](https://github.com/vinaygaba/CreditCardView)
