@@ -4,6 +4,7 @@ starter projects
 - [FantasySlide](https://github.com/mzule/FantasySlide.git)
 - [save-for-offline](https://github.com/JonasCz/save-for-offline)
 - [android-architecture](https://github.com/googlesamples/android-architecture)
+- [CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample)
 
 comprehensive projects
 ---
