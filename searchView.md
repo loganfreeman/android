@@ -1,6 +1,6 @@
 menu
 ---
-```
+```xml
 <item android:id="@+id/action_search"
 		android:queryHint="Search"
 		android:title="Search"
@@ -11,7 +11,7 @@ menu
 
 code
 ---
-```
+```java
 @Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu items for use in the action bar
