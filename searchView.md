@@ -1,3 +1,7 @@
+Documentation
+---
+- [searchView](https://developer.android.com/guide/topics/search/index.html)
+
 menu
 ---
 ```xml
