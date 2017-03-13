@@ -1,0 +1,1 @@
+- [add-swipe-interface](https://developer.android.com/training/swipe/add-swipe-interface.html)
