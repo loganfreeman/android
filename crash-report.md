@@ -1,0 +1,1 @@
+- [BugHD 的 SDK 请勿与其他崩溃分析的 SDK 同时使用](https://bughd.com/doc/android)
