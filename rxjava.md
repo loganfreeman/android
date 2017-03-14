@@ -1,1 +1,2 @@
 - [RxLifecycle](https://github.com/trello/RxLifecycle)
+- [解决RxJava内存泄露问题](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1122/3711.html)
