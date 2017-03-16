@@ -1,0 +1,2 @@
+- [rhino](https://www.ibm.com/developerworks/cn/java/j-lo-rhino/)
+- [Execute-JavaScript-in-Android-without-WebView](http://lifeofcoding.com/2015/04/05/Execute-JavaScript-in-Android-without-WebView/)
