@@ -6,6 +6,7 @@ starter projects
 - [android-architecture](https://github.com/googlesamples/android-architecture)
 - [CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample)
 - [AndroidRapidLibrary](https://github.com/lidong1665/AndroidRapidLibrary)
+- [PhotoNoter](https://github.com/yydcdut/PhotoNoter)
 
 comprehensive projects
 ---
