@@ -1,4 +1,4 @@
 - [RxLifecycle](https://github.com/trello/RxLifecycle)
 - [解决RxJava内存泄露问题](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1122/3711.html)
 - [multithreading](https://praveer09.github.io/technology/2016/02/29/rxjava-part-3-multithreading/)
-- [RxJava’s Observable](http://blog.stablekernel.com/replace-asynctask-asynctaskloader-rx-observable-rxjava-android-patterns/)
+- [RxJava’s Observable](https://android.jlelse.eu/introduction-to-rxjava-for-android-b15e0ba1b338#.uyajobxfp)
