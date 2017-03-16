@@ -5,7 +5,7 @@ starter projects
 - [save-for-offline](https://github.com/JonasCz/save-for-offline)
 - [android-architecture](https://github.com/googlesamples/android-architecture)
 - [CoordinatorBehaviorExample](https://github.com/saulmm/CoordinatorBehaviorExample)
-- [vlayout](https://github.com/alibaba/vlayout)
+- [AndroidRapidLibrary](https://github.com/lidong1665/AndroidRapidLibrary)
 
 comprehensive projects
 ---
