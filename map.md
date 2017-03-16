@@ -1,3 +1,4 @@
 - [android map utils](https://github.com/googlemaps/android-maps-utils.git)
 - [google map android sample](https://github.com/googlemaps/android-samples.git)
 - [Google-Directions-Android](https://github.com/jd-alexander/Google-Directions-Android)
+- [GoogleMapsAnimations](https://github.com/aarsy/GoogleMapsAnimations)
