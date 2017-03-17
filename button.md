@@ -1,0 +1,1 @@
+- [android-create-a-toggle-button-with-image-and-no-text](http://stackoverflow.com/questions/18598255/android-create-a-toggle-button-with-image-and-no-text)
