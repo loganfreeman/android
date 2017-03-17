@@ -1,1 +1,2 @@
 - [BottomBar](https://github.com/roughike/BottomBar)
+- [android-new-bottom-navigation-bar](http://stackoverflow.com/questions/36032177/android-new-bottom-navigation-bar/36033640)
