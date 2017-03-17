@@ -12,3 +12,4 @@ Issues
 - [How to create a custom observable?](http://blog.feedpresso.com/2016/01/25/why-you-should-use-rxjava-in-android-a-short-introduction-to-rxjava.html)
 - [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples)
 - [rxjava-defer-execution-of-function-via-fromcallable](https://artemzin.com/blog/rxjava-defer-execution-of-function-via-fromcallable/)
+- [cached-rest-requests-with-rxjava](http://fedepaol.github.io/blog/2016/01/01/cached-rest-requests-with-rxjava/)
