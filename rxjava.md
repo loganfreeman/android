@@ -3,6 +3,10 @@ Starter projects
 ---
 - [EasyGank](https://github.com/CaMnter/EasyGank)
 
+Samples
+---
+- [rxandroid-architecture-sample](https://github.com/zsiegel/rxandroid-architecture-sample)
+
 Issues
 ---
 - [RxLifecycle](https://github.com/trello/RxLifecycle)
