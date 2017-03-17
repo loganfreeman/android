@@ -2,3 +2,4 @@
 - [How to swap between map fragment and list fragment in android while updating both fragments with AsyncTask](http://stackoverflow.com/questions/14825708/how-to-swap-between-map-fragment-and-list-fragment-in-android-while-updating-bot)
 - [navigating-between-map-and-list-representations-of-data](http://ux.stackexchange.com/questions/30483/navigating-between-map-and-list-representations-of-data)
 - [Alternatives to tabs when displaying list and map](http://ux.stackexchange.com/questions/78695/alternatives-to-tabs-when-displaying-list-and-map-appbar-issues-when-scrolling)
+- [Add a Fragment to an Activity at Runtime](https://developer.android.com/training/basics/fragments/fragment-ui.html)
