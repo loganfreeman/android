@@ -1,0 +1,2 @@
+- [toggle-between-mapfragment-and-listfragment](http://stackoverflow.com/questions/22962504/toggle-between-mapfragment-and-listfragment)
+- [How to swap between map fragment and list fragment in android while updating both fragments with AsyncTask](http://stackoverflow.com/questions/14825708/how-to-swap-between-map-fragment-and-list-fragment-in-android-while-updating-bot)
