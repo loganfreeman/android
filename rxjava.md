@@ -11,3 +11,4 @@ Issues
 - [RxJava’s Observable](https://android.jlelse.eu/introduction-to-rxjava-for-android-b15e0ba1b338#.uyajobxfp)
 - [How to create a custom observable?](http://blog.feedpresso.com/2016/01/25/why-you-should-use-rxjava-in-android-a-short-introduction-to-rxjava.html)
 - [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples)
+- [rxjava-defer-execution-of-function-via-fromcallable](https://artemzin.com/blog/rxjava-defer-execution-of-function-via-fromcallable/)
