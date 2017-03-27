@@ -1,1 +1,2 @@
-- [AndroidListView](http://www.vogella.com/tutorials/AndroidListView/article.html)
+- [AndroidListView](http://www.vogella.com/tutorials/AndroidListView/article.html)\
+- [ListItemView](https://github.com/lurbas/ListItemView)
