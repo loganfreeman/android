@@ -1,1 +1,2 @@
+- [awesome-android-performance](https://github.com/Juude/awesome-android-performance)
 - [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)
