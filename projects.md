@@ -17,6 +17,7 @@ comprehensive projects
 - [云阅：一款基于网易云音乐UI，使用Gank.Io及豆瓣api开发的符合Google Material Design的Android客户端](https://github.com/youlookwhat/CloudReader)
 - [极客日报](https://github.com/codeestX/GeekNews)
 - [干货](https://github.com/ganhuo/Android-Ganhuo.git)
+- [LookLook](https://github.com/xinghongfei/LookLook)
 
 credit card
 ---
