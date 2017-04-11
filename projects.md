@@ -13,6 +13,7 @@ comprehensive projects
 ---
 - [A material designed music player for Android](https://github.com/kabouzeid/Phonograph.git)
 - [Android MVP Architecture Study](https://github.com/Rukey7/MvpApp)
+- [用知乎和gankio 网易新闻 豆瓣电影的API，模仿网易云音乐UI来完成一个基于Material Design +Rxjava + Retrofit + dagger2 + MVP构架的项目](https://github.com/laotan7237/EasyReader.git)
 
 credit card
 ---
