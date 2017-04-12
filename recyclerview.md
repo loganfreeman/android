@@ -1,3 +1,4 @@
 - [vlayout](https://github.com/alibaba/vlayout)
 - [advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)
 - [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)
+- [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
