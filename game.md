@@ -1,3 +1,4 @@
+- [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev)
 - [memory-game](https://github.com/sromku/memory-game.git)
 - [tilt-game-android](https://github.com/mediamonks/tilt-game-android.git)
 - [open_flood](https://github.com/GunshipPenguin/open_flood)
