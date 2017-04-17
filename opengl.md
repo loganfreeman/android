@@ -5,3 +5,4 @@
 - [projection](https://developer.android.com/training/graphics/opengl/projection.html)
 - [Android Lesson One: Getting Started](http://www.learnopengles.com/android-lesson-one-getting-started/)
 - [OpenGL Transformation](http://www.songho.ca/opengl/gl_transform.html)
+- [OpenGL ES 2.0 Tutorial for Android](https://blog.jayway.com/2013/05/09/opengl-es-2-0-tutorial-for-android-part-i-getting-started/)
