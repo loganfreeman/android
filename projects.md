@@ -20,6 +20,7 @@ comprehensive projects
 - [LookLook](https://github.com/xinghongfei/LookLook)
 - [仿京东app 采用组件化架构](https://github.com/liu-xiao-dong/JD-Test.git)
 - [StreetComplete](https://github.com/westnordost/StreetComplete)
+- [Nodejs 中文社区应用](https://github.com/shellljx/CNode-android)
 
 credit card
 ---
