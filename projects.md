@@ -18,6 +18,7 @@ comprehensive projects
 - [极客日报](https://github.com/codeestX/GeekNews)
 - [干货](https://github.com/ganhuo/Android-Ganhuo.git)
 - [LookLook](https://github.com/xinghongfei/LookLook)
+- [仿京东app 采用组件化架构](https://github.com/liu-xiao-dong/JD-Test.git)
 
 credit card
 ---
