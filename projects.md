@@ -19,6 +19,7 @@ comprehensive projects
 - [干货](https://github.com/ganhuo/Android-Ganhuo.git)
 - [LookLook](https://github.com/xinghongfei/LookLook)
 - [仿京东app 采用组件化架构](https://github.com/liu-xiao-dong/JD-Test.git)
+- [StreetComplete](https://github.com/westnordost/StreetComplete)
 
 credit card
 ---
