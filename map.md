@@ -6,6 +6,7 @@ API
 - [Google-Directions-Android](https://github.com/jd-alexander/Google-Directions-Android)
 - [GoogleMapsAnimations](https://github.com/aarsy/GoogleMapsAnimations)
 - [marker-clustering](https://developers.google.com/maps/documentation/javascript/marker-clustering)
+- [ExtraMapUtils](https://github.com/bkhezry/ExtraMapUtils)
 
 
 Projects
