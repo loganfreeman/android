@@ -23,6 +23,7 @@ comprehensive projects
 - [Nodejs 中文社区应用](https://github.com/shellljx/CNode-android)
 - [FastHub](https://github.com/k0shk0sh/FastHub)
 - [LQRWeChat](https://github.com/GitLqr/LQRWeChat)
+- [PonyMusic](https://github.com/wangchenyan/PonyMusic)
 
 credit card
 ---
