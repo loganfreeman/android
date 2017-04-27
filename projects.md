@@ -24,6 +24,7 @@ comprehensive projects
 - [FastHub](https://github.com/k0shk0sh/FastHub)
 - [LQRWeChat](https://github.com/GitLqr/LQRWeChat)
 - [PonyMusic](https://github.com/wangchenyan/PonyMusic)
+- [秀趣——文艺的名字下是一款实用的休闲类App](https://github.com/liulingfeng/Common)
 
 credit card
 ---
