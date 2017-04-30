@@ -1,3 +1,4 @@
+- [awesome-opengl](https://github.com/eug/awesome-opengl)
 - [OpenGL ES API: the basics](https://developer.android.com/guide/topics/graphics/opengl.html)
 - [Build a Renderer Class](https://developer.android.com/training/graphics/opengl/environment.html)
 - [Learn-OpenGLES-Tutorials](https://github.com/learnopengles/Learn-OpenGLES-Tutorials)
@@ -16,13 +17,38 @@ Shader
 - [OpenGL Shading Language tutorials](https://www.opengl.org/sdk/docs/tutorials/TyphoonLabs/)
 - [Basic shading](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-8-basic-shading/)
 
+Engines
+---
+- [AndEngine](https://github.com/nicolasgramlich/AndEngine)
+
 Projects
 ---
+- [opengles3-book](https://github.com/danginsburg/opengles3-book)
+- [Learning Modern 3D Graphics Programming](https://github.com/paroj/gltut)
+- [Source code of the chapters of the book 3D Game Development with LWJGL 3](https://github.com/lwjglgamedev/lwjglbook)
+- [A collection of simple single file OpenGL examples](https://github.com/progschj/OpenGL-Examples)
+- [OpenGL sample on various rendering approaches for typical CAD scenes](https://github.com/nvpro-samples/gl_cadscene_rendertechniques)
+- [Cross-platform OpenGL and OpenGL ES samples (for Windows, Android, and Linux)](https://github.com/NVIDIAGameWorks/OpenGLSamples)
+- [A modern, hackable, featureful, OpenGL based terminal emulator](https://github.com/kovidgoyal/kitty)
+- [opengl-examples](https://github.com/zuck/opengl-examples)
+- [LittleWorld](https://github.com/xpac27/LittleWorld)
+- [NEWorld](https://github.com/Infinideastudio/NEWorld)
+- [Bubble-Picker](https://github.com/igalata/Bubble-Picker)
+- [opengl-examples](https://github.com/skuhl/opengl-examples)
+- [opengl4tutorials](https://github.com/giawa/opengl4tutorials)
 - [examples](https://github.com/JimSeker/opengl.git)
 - [StarWars](https://github.com/Yalantis/StarWars.Android)
 - [PageFlip](https://github.com/eschao/android-PageFlip)
 - [Learn-OpenGLES-Tutorials](https://github.com/learnopengles/Learn-OpenGLES-Tutorials)
 - [PlayVideo](https://github.com/ChouRay/PlayVideo-OpenGL)
+- [OpenGL 3 and 4 with GLSL](https://github.com/McNopper/OpenGL.git)
+- [Collection of small games, demos and other applications developed on OpenGL](https://github.com/asgarth/opengl)
+- [A cross-platform, GPU-accelerated terminal emulator](https://github.com/jwilm/alacritty)
+- [My amateur attempts, mostly goofing around](https://github.com/rocksdanister/OpenGL)
+- [opengl](https://github.com/baiyang/opengl)
+- [freetype-gl](https://github.com/rougier/freetype-gl)
+- [opengl-series](https://github.com/tomdalling/opengl-series)
+- [opengl-tutorials](https://github.com/zilongshanren/opengl-tutorials)
 
 Matrix
 ---
