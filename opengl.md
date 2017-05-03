@@ -60,8 +60,8 @@ Tutorial
 ---
 - [OpenGL Tutorial](http://www.cs.uccs.edu/~ssemwal/indexGLTutorial.html)
 - [opengl tutorials](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-1-opening-a-window/)
+- [LearnOpenGL.com](https://learnopengl.com/#!Advanced-OpenGL/Instancing)
 - [simple-opengl-program-in-xcode](http://photonherder.blogspot.com/2011/09/tutorial-simple-opengl-program-in-xcode.html)
-- [Instancing](https://learnopengl.com/#!Advanced-OpenGL/Instancing)
 - [Instanced Rendering](http://metalbyexample.com/instanced-rendering/)
 - [Terrain generation with the diamond square algorithm](http://www.paulboxley.com/blog/2011/03/terrain-generation-mark-one)
 - [3D Game Development with LWJGL 3](https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/chapter21/chapter21.html)
