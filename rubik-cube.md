@@ -1,0 +1,2 @@
+- [RubiksCubeSolver](https://github.com/0x5e/RubiksCubeSolver)
+- [RubiksCubeRobot](https://github.com/DigDream/RubiksCubeRobot)
