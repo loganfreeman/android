@@ -19,6 +19,7 @@ Utils
 - [android utils](https://github.com/loganfreeman/AndroidUtilCode)
 - [代码助手，提供常用代码功能和模块](https://github.com/boredream/bdcodehelper)
 - [代码辅助工具,提供各种自动生成代码的方法](https://github.com/boredream/CodeUtils)
+- [CommonUtilLibrary](https://github.com/AbrahamCaiJin/CommonUtilLibrary)
 
 Shares
 ---
