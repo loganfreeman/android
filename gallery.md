@@ -6,3 +6,4 @@
 - [Album](https://github.com/yanzhenjie/Album)
 - [Louvre](https://github.com/andremion/Louvre)
 - [GalleryLayoutManager](https://github.com/BCsl/GalleryLayoutManager)
+- [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
