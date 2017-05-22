@@ -9,3 +9,4 @@
 - [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
 - [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
 - [AndroidTouchGallery](https://github.com/RomanTruba/AndroidTouchGallery)
+- [PickImage](https://github.com/jrvansuita/PickImage)
