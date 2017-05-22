@@ -65,3 +65,7 @@ Tutorial
 - [Instanced Rendering](http://metalbyexample.com/instanced-rendering/)
 - [Terrain generation with the diamond square algorithm](http://www.paulboxley.com/blog/2011/03/terrain-generation-mark-one)
 - [3D Game Development with LWJGL 3](https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/chapter21/chapter21.html)
+
+Rubik's cube
+---
+- [opengl-rubix-cube](https://github.com/MGhareeb32/opengl-rubix-cube.git)
