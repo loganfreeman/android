@@ -7,3 +7,4 @@
 - [Louvre](https://github.com/andremion/Louvre)
 - [GalleryLayoutManager](https://github.com/BCsl/GalleryLayoutManager)
 - [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
+- [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)
