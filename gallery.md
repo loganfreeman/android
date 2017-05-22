@@ -2,3 +2,4 @@
 - [recent-images](https://github.com/amirarcane/recent-images)
 - [PickPhotoSample](https://github.com/Werb/PickPhotoSample)
 - [ZGallery](https://github.com/mzelzoghbi/ZGallery)
+- [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)
