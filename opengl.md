@@ -70,3 +70,4 @@ Rubik's cube
 ---
 - [opengl-rubix-cube](https://github.com/MGhareeb32/opengl-rubix-cube.git)
 - [JOGLRubiksCube](https://github.com/xargsgrep/JOGLRubiksCube.git)
+- [RubikCubeDroid](https://github.com/neaGaze/RubikCubeDroid)
