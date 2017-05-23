@@ -72,3 +72,4 @@ Rubik's cube
 - [JOGLRubiksCube](https://github.com/xargsgrep/JOGLRubiksCube.git)
 - [RubikCubeDroid](https://github.com/neaGaze/RubikCubeDroid)
 - [PyCube](https://github.com/mtking2/PyCube)
+- [PuzzleDroid](https://github.com/sampullman/android-PuzzleDroid.git)
