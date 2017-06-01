@@ -1,0 +1,2 @@
+- [Zillow Scraper for Python using Selenium](https://github.com/ChrisMuir/Zillow)
+- [zillow php wrapper](https://github.com/VinceG/zillow)
