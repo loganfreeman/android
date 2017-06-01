@@ -1,1 +1,2 @@
 - [PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes)
+- [滑动验证码破解示例，仅供学习使用](https://github.com/iYgnohZ/crack-geetest.git)
