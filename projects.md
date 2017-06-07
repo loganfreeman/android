@@ -27,6 +27,7 @@ comprehensive projects
 - [秀趣——文艺的名字下是一款实用的休闲类App](https://github.com/liulingfeng/Common)
  -[AccountBook](https://github.com/Airsaid/AccountBook)
  - [NiceVieoPlayer](https://github.com/xiaoyanger0825/NiceVieoPlayer)
+ - [高仿wechat](https://github.com/motianhuo/wechat)
 
 credit card
 ---
