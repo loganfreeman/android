@@ -1,1 +1,2 @@
 - [android-architecture-components](https://github.com/googlesamples/android-architecture-components)
+- [android-architecture](https://github.com/googlesamples/android-architecture)
